@@ -8,7 +8,7 @@
 
 * 使用了 better-scroll 滚动插件。
 
-* 项目演示地址 [vue-travel](https://joozh.github.io/vue-travel)
+* 项目演示地址 <https://joozh.github.io/vue-travel/>
 
 * console 会输出两个错误，暂未解决。
 
