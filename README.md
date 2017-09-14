@@ -1,6 +1,16 @@
 # vue-travel
 
-> A Vue.js project
+> 出差申请与审批的项目前端。
+
+* 用到了少量的 mint-ui 组件。
+
+* 使用了 mock.js 进行数据模拟。
+
+* 使用了 better-scroll 滚动插件。
+
+* 项目演示地址 [vue-travel](https://joozh.github.io/vue-travel)
+
+* console 会输出两个错误，暂未解决。
 
 ## Build Setup
 
