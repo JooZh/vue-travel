@@ -8,7 +8,7 @@
 
 * 使用了 better-scroll 滚动插件。
 
-* 项目演示地址 <https://joozh.github.io/vue-travel/>
+* 项目演示地址 <https://joozh.github.io/vue-travel/> 按F12 进入网页手机模式查看效果更加。
 
 * console 会输出两个错误，暂未解决。
 
