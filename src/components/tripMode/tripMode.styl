@@ -1,0 +1,46 @@
+@import "../../assets/styl/mixin.styl"
+.trip-mode
+  position fixed
+  left 0
+  bottom 0
+  width 100%
+  height 100%
+  background rgba(0, 0, 0, 0.8)
+  z-index 99
+  &.animated
+    animation-duration 0.4s
+  .trip-mode-wrapper
+    position absolute
+    left 0
+    bottom 0
+    min-height 50%
+    width 100%
+    background #fff
+    &.animated
+      animation-duration 0.4s
+    .title
+      display flex
+      span
+        flex 1
+        text-align center
+        line-height 40px
+        color #26a2ff
+    .border-1px
+      border-1px(#eaeaea)
+    .content
+      position absolute
+      left 0
+      top 40px
+      bottom 0px
+      width 100%
+      overflow hidden
+      .mint-radiolist-label-content
+        line-height 30px
+        .mint-radiolist-label
+          display flex
+          padding 5px 0
+          .mint-radio-label
+            flex 1
+            text-indent 20px
+          .mint-radio-select
+            flex 0 0 50px

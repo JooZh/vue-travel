@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'travel';
+  src:  url('fonts/travel.eot?s46z92');
+  src:  url('fonts/travel.eot?s46z92#iefix') format('embedded-opentype'),
+    url('fonts/travel.ttf?s46z92') format('truetype'),
+    url('fonts/travel.woff?s46z92') format('woff'),
+    url('fonts/travel.svg?s46z92#travel') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'travel' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-help:before {
+  content: "\e900";
+}
+.icon-hour-glass:before {
+  content: "\e901";
+}
+.icon-check:before {
+  content: "\e5ca";
+}
+.icon-navigate_before:before {
+  content: "\e408";
+}
+.icon-navigate_next:before {
+  content: "\e409";
+}
+.icon-close:before {
+  content: "\e5cd";
+}
+.icon-near_me:before {
+  content: "\e569";
+}
+.icon-pencil:before {
+  content: "\e905";
+}
+.icon-compass:before {
+  content: "\e949";
+}
+.icon-clock:before {
+  content: "\e94e";
+}
+.icon-user:before {
+  content: "\e971";
+}
+.icon-airplane:before {
+  content: "\e9af";
+}
+.icon-list-numbered:before {
+  content: "\e9b9";
+}
+.icon-tree:before {
+  content: "\e9bc";
+}
+.icon-star-empty:before {
+  content: "\e9d7";
+}
+.icon-star-full:before {
+  content: "\e9d9";
+}
+.icon-happy:before {
+  content: "\e9df";
+}
+.icon-happy2:before {
+  content: "\e9e0";
+}
+.icon-smile:before {
+  content: "\e9e1";
+}
+.icon-smile2:before {
+  content: "\e9e2";
+}
+.icon-sad:before {
+  content: "\e9e5";
+}
+.icon-sad2:before {
+  content: "\e9e6";
+}
+.icon-neutral:before {
+  content: "\e9f7";
+}
+.icon-plus:before {
+  content: "\ea0a";
+}
+.icon-minus:before {
+  content: "\ea0b";
+}
+.icon-cross:before {
+  content: "\ea0f";
+}
+.icon-checkmark:before {
+  content: "\ea10";
+}
+.icon-checkmark2:before {
+  content: "\ea11";
+}
